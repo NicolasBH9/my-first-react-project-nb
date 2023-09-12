@@ -1,5 +1,7 @@
 ## SPA with React 
 
+Student: Nicolás Barragán
+
 The report for this project can be found here [`SPA-React-Nicolás Barragán`](https://github.com/NicolasBH9/my-first-react-project-nb/blob/master/SPA-React-Nicol%C3%A1s%20Barrag%C3%A1n.pdf)
 
 ## Getting Started
